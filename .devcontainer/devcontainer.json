@@ -1,0 +1,25 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "extensions": [
+    "afmicc.getterandsettergenerator",
+    "bierner.markdown-preview-github-styles",
+    "bracketpaircolordlw.bracket-pair-color-dlw",
+    "dracula-theme.theme-dracula",
+    "editorconfig.editorconfig",
+    "github.codespaces",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-wsl",
+    "redhat.java",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode",
+    "vscjava.vscode-gradle",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-dependency",
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "tal7aouy.icons"
+  ]
+}
